@@ -1,0 +1,15 @@
+# build tool caches
+**/.mvn
+**/.gradle
+
+# build caches
+**/build/
+**/target/
+**/bin
+
+# IDEs
+/.idea/
+/.vscode/
+
+# Temporary files
+**/~$*
